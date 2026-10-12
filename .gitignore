@@ -1,0 +1,3 @@
+echo "server" >> .gitignore
+echo "server-hotfix" >> .gitignore
+echo "server-pipeline" >> .gitignore
